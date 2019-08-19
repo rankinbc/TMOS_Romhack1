@@ -1,0 +1,40 @@
+﻿FF Battle
+00 Nothing
+1D Frozen Palace
+20 First Mosque-You will defeat sabaron?
+7B Shop (Unused) Amulet Mashroob <blank> <blank>
+7C Shop(Unused) Fighter <blank> Raincom <blank>
+7D Shop(Unused) Holyrobe Raincom Spricom ?
+7E Mosque
+7F Troopers
+A0 Hotel 10r
+B0 Hotel 169r
+BE Casino 1
+C0 TimeDoor enter
+D7 TimeDoor exit
+C7 TimeDoor exit
+60 Shop B20 Mashroom Key horn
+61 Shop1
+62 Shop (Horen Past) b60 m60 c60 rseed100
+64 Shop2
+75 Shop Amaries Kaitos Fighter <blank>
+76 Shop Raincom <blank> Holyrobe Raincom
+77 Shop Spricom ? BasidoSquad ?
+78 Shop Pukin Pukin Pukin Kebabu
+79 Shop mashroom key raincom holyrobe
+80 Jad
+81 Faruk
+82 Dogos
+83 Kebabu
+84 Aqua Palace
+85 WiseMan Monecom										
+86 Achelato Princess
+87 Sabaron
+88 50 rupias
+89 gun meca
+90,1d Newborn cimaron tree
+40 University
+50 University
+55 University
+BC RupiaTree-Plant
+BD RupiaTree-Tell about rupia seed

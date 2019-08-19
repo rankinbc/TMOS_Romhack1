@@ -1,0 +1,34 @@
+﻿FF Battle
+00 Nothing
+1D Frozen Palace
+20 First Mosque-You will defeat sabaron?
+7B Shop (Unused) Amulet Mashroob <blank> <blank>
+7C Shop(Unused) Fighter <blank> Raincom <blank>
+7D Shop(Unused) Holyrobe Raincom Spricom ?
+60 Shop
+61 Shop1
+62 Shop b60 m60 c60 rseed100
+64 Shop2
+65 Shop
+66 Shop
+A0 Hotel 10r
+A2 Hotel2
+A3 Hotel3
+A4 hotel
+B0 Hotel 169r
+BC Rupia Seed (would you like to)
+BD Rupia Tree (Person who planted a seed a long time ago....)
+87 wiseman
+7E Mosque
+7F Troopers
+BE Casino 1
+40 University
+42 University
+50 University
+55 University
+89 Hotel
+80 New born cimaron tree
+81 Cimaron Tree
+82 Supapa
+84 Mustafa
+85 Frozen Palace

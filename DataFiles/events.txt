@@ -1,0 +1,11 @@
+﻿00 none
+01 Coronya:Listen to the people of the town
+02 Use oprin
+03 This is the north cape
+05 town
+06 oprin
+07 this is the north cape
+20 Oprin door (no message)
+22 Oprin door with Coronya message
+40 Stairway (to ScreenId of Content value)
+47 Can jump in North Cape

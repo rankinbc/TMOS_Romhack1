@@ -1,0 +1,20 @@
+﻿FF Battle
+00 Nothing
+60 Shop
+61 Shop1
+62 Shop b60 m60 c60 rseed100
+64 Shop2
+7E Mosque
+7F Troopers
+BE Casino
+A2 Hotel2
+A3 Hotel3
+41 University
+23 Curly
+8D Rupia tree (not planted)
+80 Gun Meca
+81 Lah
+82 Supica
+83 Epin
+84 Wiseman
+87 Princess

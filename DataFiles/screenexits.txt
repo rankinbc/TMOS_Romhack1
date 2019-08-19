@@ -1,0 +1,2 @@
+﻿FF no exit
+FE start dialog screen (of Content value)

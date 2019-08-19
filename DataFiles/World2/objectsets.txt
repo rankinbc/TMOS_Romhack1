@@ -1,0 +1,21 @@
+﻿00 none
+1E townpeople: Mario, girl, flute guy
+1F townpeople: Mario and girl
+21 townpeople: booth guy
+22 townpeople: girl, mario, shortguy, old man
+23 townpeople: mario, short guy
+20 townpeople: mario, shortguy
+03 4 robbers
+04 4 robbers
+05 2 bees
+07 1 bee 4 robbers (2)
+08 1 bee 4 robbers
+09 Fish top
+13 hidden staircase 1
+0F 4 dungeon robbers
+18 townpeople: mario, girl, boothguy
+19 townpeople: mario, girl, shortguy
+14 hidden staircase 2
+16 townpeople: old man, girl
+17 townpeople: mario, girl, flute guy
+61 townpeople: Mario, fluteguy, old man
